@@ -93,7 +93,7 @@ class CustomerPage extends React.Component {
         return (
           <div>
             <Button type='link' size="small" onClick={this.handleDelete.bind(this,record.id)}>删除</Button>
-            <Button type='link' size="small">修改</Button>
+            <Button type='link' size="small" onClick="">修改</Button>
           </div>
         )
       }
