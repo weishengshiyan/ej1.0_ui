@@ -14,7 +14,7 @@ function IndexPage() {
     </div>
   );
 }
-
+//aaaaaaaaaaa
 IndexPage.propTypes = {
 };
 
